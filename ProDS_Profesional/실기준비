@@ -1,3 +1,11 @@
 SeniorDS 실기 문제풀이 - Python
 https://platform.samsungcic.com/#/course/CRS20210827153492948
 
+Bartlett's Test 등분산성
+
+from sklearn.preprocessing import LabelEncorder
+from xgboost import XGBClassfier -> 변수의 중요도 Feature Importance
+from imblearn.over_sampling import SMOTE
+고유값이 1보다 큰 주성분
+Eigenvalue
+
